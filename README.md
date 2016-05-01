@@ -1,6 +1,7 @@
 # Working example of Blender REST export
 
 With the changes in https://github.com/daniel-nth/three.js/tree/blender-rest-export  
+Live example: http://daniel-nth.github.io/three.js-rest-example/examples/webgl_animation_skinning_blending_rest.html
 
 marine_anims_core_rest.blend is a slightly modified version of marine_anims_core.blend from the three.js repo.  
 
